@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zhua633
-- 👀 I’m interested in embedded systems programming and artificial intelligence
 - 🌱 I’m currently learning mechatronics engineering at uoa
 - 📫 How to reach me: zhua633@aucklanduni.ac.nz
 
