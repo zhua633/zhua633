@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zhua633
-- 🌱 I’m currently learning mechatronics engineering at uoa
+- 👋 Hi, my name is Anvilly and I’m currently in my last year of mechatronics engineering at uoa
 - 📫 How to reach me: zhua633@aucklanduni.ac.nz
 
 <!---
