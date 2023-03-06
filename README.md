@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Anvilly and I’m currently in my last year of mechatronics engineering at uoa
-- 📫 How to reach me: zhua633@aucklanduni.ac.nz
+- 👋 Hi, my name is Anvilly and I’m currently a graduate software engineer!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhua633&layout=compact)
 
