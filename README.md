@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Anvilly and I’m currently a graduate software engineer!
+- 👋 Hi, my name is Anvilly and I am a graduate software engineer!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhua633&layout=compact)
 
