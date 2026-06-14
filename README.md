@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Anvilly and I am a graduate software engineer!
+- 👋 Hi, my name is Anvilly and I am an associate software engineer!
 - Visit my website and learn more about me [here](https://zhua633.github.io/my-website-v2/)
 
 <!---
